@@ -3,7 +3,7 @@ pipeline {
 
     tools {
         jdk 'jdk_home'           // JDK name in Jenkins
-        maven 'maven-home'       // Maven name in Jenkins
+        maven 'maven_home'       // Maven name in Jenkins
     }
 
     stages {
