@@ -34,7 +34,7 @@ button {
 </head>
 <body>
    <div>
-      <h2>Login here 24-09-2025</h2>
+      <h2>Login here</h2>
       <form action="login">
 
 
